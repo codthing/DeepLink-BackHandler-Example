@@ -3,6 +3,18 @@
 
 expo + react-native + react navigation v5
 
+> install
+
+```javascript
+git clone https://github.com/mofengfs/DeepLink-BackHandler-Example.git
+
+//Project root directory
+yarn
+
+//Open the emulator  start
+yarn android
+
+```
 
 > params/stack list/detail
 
