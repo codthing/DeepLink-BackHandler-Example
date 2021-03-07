@@ -3,15 +3,14 @@
 
 expo + react-native + react navigation v5
 
-### Default
 
-> params/stack test 
+> params/stack list/detail
 
 ```javascript
-npx uri-scheme open a08://test/123 --android
+npx uri-scheme open a08://list/123 --android
+npx uri-scheme open a08://detail/123 --android
 
 ```
-### Edit Code execution
 
 > tab test
 
