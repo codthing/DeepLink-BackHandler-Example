@@ -18,6 +18,11 @@ expo + react-native + react navigation v5
 </intent-filter>
 
 ```
+或者命令行执行
+
+``` base
+npx uri-scheme add mychat --android
+```
 
 > 配置深层链接
 
